@@ -1,0 +1,12 @@
+efficient_uart\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+efficient_uart\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+efficient_uart\port.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+efficient_uart\port.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+efficient_uart\port.o: ../Core/Inc/FreeRTOSConfig.h
+efficient_uart\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+efficient_uart\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+efficient_uart\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+efficient_uart\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+efficient_uart\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+efficient_uart\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+efficient_uart\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
